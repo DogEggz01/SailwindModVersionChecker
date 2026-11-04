@@ -197,7 +197,7 @@
   {
     "guid": "com.nandbrew.towableboats",
     "repo": "https://github.com/NANDbrew/TowableBoats",
-    "version": "v0.2.7"
+    "version": "v0.2.8"
   },
   {
     "guid": "com.nandbrew.boatcolors",
@@ -437,7 +437,7 @@
   {
     "guid": "com.keevi.fixes",
     "repo": "https://github.com/KeeviDev/SailwindKeeviFixes",
-    "version": "v1.0.3"
+    "version": "v1.0.4"
   },
   {
     "guid": "com.august.moresailwindsails",
