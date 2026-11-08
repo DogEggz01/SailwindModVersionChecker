@@ -167,7 +167,7 @@
   {
     "guid": "com.nandbrew.savecleaner",
     "repo": "https://github.com/NANDbrew/SaveCleaner",
-    "version": "v0.4.0"
+    "version": "v0.4.1"
   },
   {
     "guid": "com.nandbrew.nandtweaks",
@@ -257,7 +257,7 @@
   {
     "guid": "com.nandbrew.scrambledseas",
     "repo": "https://github.com/NANDbrew/scrambled-seas",
-    "version": "v7.1.9"
+    "version": "v7.3.1"
   },
   {
     "guid": "com.nandbrew.bettertables",
