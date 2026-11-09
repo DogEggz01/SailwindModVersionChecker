@@ -292,6 +292,14 @@
         "repo": "https://github.com/DogEggz01/Tentandplank"
     },
     {
+        "guid": "DogEggz.HouseItemsFix",
+        "repo": "https://github.com/DogEggz01/HouseItemFix"
+    },
+    {
+        "guid": "DogEggz.ShipwrightTransport",
+        "repo": "https://github.com/DogEggz01/ShipwrightTransportation"
+    },
+    {
         "guid": "com.kemy.kemyfurniture",
         "repo": "https://github.com/Kemylar/KemyFurnitureMod"
     }
